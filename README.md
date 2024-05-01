@@ -3,4 +3,4 @@
 ### 2. ETF
 ### 3. Correlation analysis 
 ### 4. LSTM
-### whereas the file BOTZ is the initial downloaded stock price 
+### whereas the file BOTZ is the initial downloaded stock price, thank you.
